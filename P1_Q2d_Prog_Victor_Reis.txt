@@ -1,0 +1,14 @@
+Para N = 5:
+O numero  neperiano de 5 termos eh 2.71666694
+O erro da medida eh: 0.00161489
+
+Para N = 10:
+O numero  neperiano de 10 termos eh 2.71828198
+O erro da medida eh: 0.00000015
+
+Para N = 15:
+O numero  neperiano de 15 termos eh 2.71828198
+O erro da medida eh: 0.00000015
+
+Conclusão:
+Quanto maior o número N, mais perto a aproximação estará do valor verdadeiro. Por isso, o erro tende a diminuir a medida que N cresce.
